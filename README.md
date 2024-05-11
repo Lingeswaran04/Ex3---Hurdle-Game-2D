@@ -97,7 +97,7 @@ public class runraja : MonoBehaviour
 ```
 
 ## OUTPUT: 
-![alt text](output.png)
+![image](https://github.com/Lingeswaran04/Ex3---Hurdle-Game-2D/assets/119103865/a6a485c4-45e2-4531-b5b7-7c495f993c27)
 
 ## RESULT:
 Thus the 2D game using C# program in unity is developed successfully.
